@@ -1,3 +1,5 @@
+Site on netlify : https://fervent-mayer-7570ba.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
